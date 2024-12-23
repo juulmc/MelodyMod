@@ -1,6 +1,6 @@
 # Melody Mod v5
 
-![Downloads](https://img.shields.io/badge/Downloads-3.7k%2B-brightgreen) ![Happy Users](https://img.shields.io/badge/Happy%20Users-2.5k%2B-blue) ![Version](https://img.shields.io/badge/Version-v1-orange) ![By Skyblockers For Skyblockers](https://img.shields.io/badge/By%20Skyblockers,-For%20Skyblockers!-darkgreen)
+![Downloads](https://img.shields.io/badge/Downloads-3.7k%2B-brightgreen) ![Happy Users](https://img.shields.io/badge/Happy%20Users-2.5k%2B-blue) ![Version](https://img.shields.io/badge/Version-v5-orange) ![By Skyblockers For Skyblockers](https://img.shields.io/badge/By%20Skyblockers,-For%20Skyblockers!-darkgreen)
 
 Welcome to the GitHub page for **Melody Mod v5**! This module helps players conquer the Melody Harp challenges effortlessly, ensuring precision and enjoyment.
 
