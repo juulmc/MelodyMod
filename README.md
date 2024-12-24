@@ -84,7 +84,7 @@ Welcome to the GitHub page for **Melody Mod v5**! This module helps players conq
 ## ❓ Frequently Asked Questions
 
 - **Q: Is there a video preview?**  
-  **A:** Yes! Watch the latest Melody showcase on [YouTube](https://youtu.be/EXhNAaZelgQ).
+  **A:** Yes! Watch the latest Melody showcase on [YouTube](https://youtu.be/rjzs3PwyDd8?si=hNe2WzwCa0y0rjfh).
 
 - **Q: Is this mod safe to use?**  
   **A:** Absolutely! The Harp Mod follows all Hypixel guidelines and mimics regular player inputs.
