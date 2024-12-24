@@ -1,3 +1,16 @@
+## ⚠️ Stay Safe!
+
+Before using any mod **(INCLUDING THIS ONE)**, ensure its safety by scanning it with trusted tools. Here are some recommendations to check mods before installation:
+
+- **[VirusTotal](https://www.virustotal.com)**: Scan files for malware with multiple antivirus engines.
+- **[RatRater](https://ktibow.github.io/RatRater/)**: A specialized tool for assessing mod safety.
+- **[IsThisARat](https://isthisarat.com/)**: Identify malicious mods quickly.
+- **[RatterScanner](https://discord.gg/uwyb9v8d)**: A community-driven resource for mod safety.
+
+Always verify mods before adding them to your game to protect your account and data.
+
+---
+
 # Melody Mod v5
 
 ![Downloads](https://img.shields.io/badge/Downloads-3.7k%2B-brightgreen) ![Happy Users](https://img.shields.io/badge/Happy%20Users-2.5k%2B-blue) ![Version](https://img.shields.io/badge/Version-v5-orange) ![By Skyblockers For Skyblockers](https://img.shields.io/badge/By%20Skyblockers,-For%20Skyblockers!-darkgreen)
