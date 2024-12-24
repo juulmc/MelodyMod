@@ -2,10 +2,10 @@
 
 Before using any mod **(INCLUDING THIS ONE)**, ensure its safety by scanning it with trusted tools. Here are some recommendations to check mods before installation:
 
-- **[VirusTotal](https://www.virustotal.com)**: Scan files for malware with multiple antivirus engines.
-- **[RatRater](https://ktibow.github.io/RatRater/)**: A specialized tool for assessing mod safety.
+
 - **[IsThisARat](https://isthisarat.com/)**: Identify malicious mods quickly.
-- **[RatterScanner](https://discord.gg/uwyb9v8d)**: A community-driven resource for mod safety.
+- **[RatterScanner](https://discord.com/invite/E9uUFdjP5A)**: A community-driven resource for mod safety.
+- **[RatRater](https://ktibow.github.io/RatRater/)**: A specialized tool for assessing mod safety.
 
 Always verify mods before adding them to your game to protect your account and data.
 
